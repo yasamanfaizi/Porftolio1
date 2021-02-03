@@ -1,0 +1,36 @@
+  h1 {
+     color: rgb(255, 255, 255);
+   }
+
+.header{
+    background-color: rgb(65, 62, 62);
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+
+.img{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.img1 p{
+    font-weight: bold;
+}
+
+.socials{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+   
+}
+
+h2{
+    text-decoration: underline;
+}
